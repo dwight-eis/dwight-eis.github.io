@@ -9,7 +9,7 @@ name: Wege and not
 description: Kuchnia rodzinna, nie tylko roślinna
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/dwight-eis/dwight-eis.github.io/blob/master/images/wege-and-not-logo.png
+avatar: https://raw.githubusercontent.com/dwight-eis/dwight-eis.github.io/master/images/wege-and-not-logo.png
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:
+  instagram: reuters
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
